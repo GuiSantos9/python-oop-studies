@@ -6,7 +6,7 @@ Abaixo, os conceitos fundamentais que estou explorando. Cada item marcado repres
 
 Fundamentos de Classes
 
-[ ] Classes e Objetos - A planta (blueprint) vs. a instância real.
+[✅] Classes e Objetos - A planta (blueprint) vs. a instância real.
 
 [ ] Método __init__ - O construtor da classe e inicialização de estados.
 
