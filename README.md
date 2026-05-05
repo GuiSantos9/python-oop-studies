@@ -8,9 +8,9 @@ Fundamentos de Classes
 
 [✅] Classes e Objetos - A planta (blueprint) vs. a instância real.
 
-[ ] Método __init__ - O construtor da classe e inicialização de estados.
+[✅] Método __init__ - O construtor da classe e inicialização de estados.
 
-[ ] Parâmetro self - Entendendo a referência à própria instância.
+[✅] Parâmetro self - Entendendo a referência à própria instância.
 
 [ ] Propriedades da Classe - Atributos de instância vs. atributos de classe.
 
