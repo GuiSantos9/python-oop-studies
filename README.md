@@ -12,9 +12,9 @@ Fundamentos de Classes
 
 [✅] Parâmetro self - Entendendo a referência à própria instância.
 
-[ ] Propriedades da Classe - Atributos de instância vs. atributos de classe.
+[✅] Propriedades da Classe - Atributos de instância vs. atributos de classe.
 
-[ ] Métodos da Classe - Comportamentos e ações que um objeto pode realizar.
+[✅] Métodos da Classe - Comportamentos e ações que um objeto pode realizar.
 
 Os Pilares da POO
 
