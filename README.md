@@ -18,7 +18,7 @@ Fundamentos de Classes
 
 Os Pilares da POO
 
-[ ] Herança - Criando subclasses e reutilizando código de classes pai.
+[✅] Herança - Criando subclasses e reutilizando código de classes pai.
 
 [ ] Polimorfismo - A capacidade de diferentes classes responderem à mesma mensagem de formas distintas.
 
